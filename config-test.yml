@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: springcloud-config-test
-  profiles:
-    active: test
+config:
+  info: main branch,springcloud-config/config-test.yml version=1
